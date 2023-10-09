@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+rx 5-execute
+chmod o+r 5-execute
