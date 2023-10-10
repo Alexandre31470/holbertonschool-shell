@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr | head du | sort -nr
+ls -ltr | head tail
